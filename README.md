@@ -46,7 +46,7 @@ On ajoute au fichier /etc/modules la ligne hello.ko
 ## Interception de signaux
 ### Q1 & 2
 La commande `exit` est exécutée
-
+CTRL Z => SIGSTP
 ### Q3
-
+CTRL C => SINGINT
  
