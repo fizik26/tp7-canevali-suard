@@ -41,4 +41,12 @@ Création du Makefile
 ### Q7
 `modprobe -r hello.ko` permet de décharger le module et d'afficher le message dans le journal du noyau avec la commmande `lsmod`
 ### Q8
+On ajoute au fichier /etc/modules la ligne hello.ko
 
+## Interception de signaux
+### Q1 & 2
+La commande `exit` est exécutée
+
+### Q3
+
+ 
